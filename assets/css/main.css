@@ -1,1 +1,16 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+body {
+  background: #141414;
+}
+
+body .cWidget {
+  margin: 0 auto;
+}
+
+body .bgBar {
+  background: #1b3e6a;
+  min-width: 12.7vw;
+  min-height: 4.3vh;
+  max-width: 20vw;
+  max-height: 6.8vh;
+}
+/*# sourceMappingURL=main.css.map */

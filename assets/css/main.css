@@ -8,9 +8,61 @@ body .cWidget {
 
 body .bgBar {
   background: #1b3e6a;
-  min-width: 12.7vw;
-  min-height: 4.3vh;
-  max-width: 20vw;
-  max-height: 6.8vh;
+  min-width: 245px;
+  min-height: 42px;
+  max-width: 385px;
+  max-height: 67px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .mainBox {
+  display: -ms-grid;
+  display: grid;
+}
+
+body .boxes {
+  width: 3vw;
+  height: 3.5vh;
+  background: white;
+  border-radius: 5px;
+}
+
+body .boxes h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 3vh;
+  color: #1b3e6a;
+}
+
+body .colons {
+  margin: 0;
+  font-size: 2vh;
+}
+
+body .colons h1 {
+  padding-bottom: 1vh;
+  color: #fff;
+}
+
+body .days {
+  text-align: center;
+  color: #fff;
+  font-size: 1.5vh;
+}
+
+* {
+  margin: 0 auto;
 }
 /*# sourceMappingURL=main.css.map */

@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/3a47f5f06b5484abfeee9eac90348a9c?family=Gotham);
+
 body {
     background: rgb(20, 20, 20); //white bad 
     .cWidget {
@@ -29,6 +31,7 @@ body {
         justify-content: center;
         font-size: 3vh;
         color: #1b3e6a;
+        font-family: Gotham;
         
     }
     .colons {
@@ -37,12 +40,14 @@ body {
     h1 {
         padding-bottom: 1vh;
         color: #fff;
+        
     }
     }
     .days {
         text-align: center;
         color: #fff;
-        font-size: 1.5vh;
+        font-size: 1.4vh;
+        font-family: Gotham;
     }
 }
 

@@ -22,21 +22,21 @@ body {
     }
     .boxes {
     width: 50px;
-    height:3.5vh;
+    height:35px;
     background: white;
     border-radius: 5px;
     }
     .boxes h1 {
         display: flex;
         justify-content: center;
-        font-size: 3vh;
+        font-size: 30px;
         color: #1b3e6a;
         font-family: Gotham;
         
     }
     .colons {
         margin: 0;
-        font-size: 2vh;
+        font-size: 20px;
     h1 {
         padding-bottom: 1vh;
         color: #fff;
@@ -46,7 +46,7 @@ body {
     .days {
         text-align: center;
         color: #fff;
-        font-size: 1.4vh;
+        font-size: 15px;
         font-family: Gotham;
     }
 }

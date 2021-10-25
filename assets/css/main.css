@@ -8,7 +8,7 @@ body .cWidget {
 }
 
 body .bgBar {
-  background: #1b3e6a;
+  background: #1b3f6a00;
   min-width: 245px;
   min-height: 42px;
   max-width: 385px;
@@ -44,7 +44,7 @@ body .boxes h1 {
       -ms-flex-pack: center;
           justify-content: center;
   font-size: 30px;
-  color: #1b3e6a;
+  color: #000000e3;
   font-family: Gotham;
 }
 
@@ -63,6 +63,7 @@ body .days {
   color: #fff;
   font-size: 15px;
   font-family: Gotham;
+  padding-top: 2px;
 }
 
 * {

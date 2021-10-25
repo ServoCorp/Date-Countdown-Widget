@@ -6,7 +6,7 @@ body {
         margin: 0 auto;
     }
     .bgBar {
-        background: #1b3e6a;
+        background: #1b3f6a00;
         //width: 20vw;
         //height: 6.8vh;
         min-width: 245px;
@@ -30,7 +30,7 @@ body {
         display: flex;
         justify-content: center;
         font-size: 30px;
-        color: #1b3e6a;
+        color: #000000e3;
         font-family: Gotham;
         
     }
@@ -48,6 +48,7 @@ body {
         color: #fff;
         font-size: 15px;
         font-family: Gotham;
+        padding-top: 2px;
     }
 }
 

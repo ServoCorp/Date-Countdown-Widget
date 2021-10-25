@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/3a47f5f06b5484abfeee9eac90348a9c?family=Gotham);
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 body {
   background: #141414;
 }
@@ -45,7 +45,7 @@ body .boxes h1 {
           justify-content: center;
   font-size: 30px;
   color: #000000e3;
-  font-family: Gotham;
+  font-family: 'Roboto', sans-serif;
 }
 
 body .colons {
@@ -54,7 +54,7 @@ body .colons {
 }
 
 body .colons h1 {
-  padding-bottom: 1vh;
+  padding-bottom: 24px;
   color: #fff;
 }
 
@@ -62,7 +62,7 @@ body .days {
   text-align: center;
   color: #fff;
   font-size: 15px;
-  font-family: Gotham;
+  font-family: 'Roboto', sans-serif;
   padding-top: 2px;
 }
 
